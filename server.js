@@ -23,7 +23,7 @@ var cors = require('cors')
 
 var corsOptions = {
   // origin: 'http://localhost:5173',
-  origin: 'https://client-bice-six.vercel.app',
+  origin: 'https://clientp-three.vercel.app',
 }
 
 app.use(cors(corsOptions))
